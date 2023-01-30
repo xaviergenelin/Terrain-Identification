@@ -1,4 +1,4 @@
-# Terrain-Identification
+# Terrain Identification
 
 For a more in depth look at the project you can look at the [report](https://github.com/xaviergenelin/Terrain-Identification/blob/main/CompetitionProject_Report.pdf) that we wrote.
 
